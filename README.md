@@ -2,6 +2,9 @@
 
 This program calculates the solution of a system of equations with n variables using the Gauss elimination process. The number of supported equations are 1-10. The program also calculates the error percentage for each equation and displays them on screen along with the solution. If the system has no solution the program will print an error message and terminate.
 
+### Requirements:
+- javac >= 11.0.2
+
 ### Usage:
 Compile with:  
 ```bash
