@@ -30,12 +30,16 @@ Equations:
 - 1 * x + 3 * y + 2 * z = 4
 
 Input file (test1.txt):
-> 3 
-> 2 -1 -4 -1
-> 1 5 1 0
-> 1 3 2 4
+```
+3 
+2 -1 -4 -1
+1 5 1 0
+1 3 2 4
+```
 
-Testing program: java gauss_elimination < test1.txt
+Testing program: 
+```java gauss_elimination < test1.txt```
+
 Output: 
 ```
   GAUSSIAN ELIMINATION
