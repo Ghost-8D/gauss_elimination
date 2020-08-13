@@ -37,8 +37,10 @@ Input file (test1.txt):
 1 3 2 4
 ```
 
-Testing program: 
-```java gauss_elimination < test1.txt```
+Running program: 
+```
+java gauss_elimination < test1.txt
+```
 
 Output: 
 ```
