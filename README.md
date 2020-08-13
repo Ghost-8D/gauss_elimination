@@ -14,14 +14,16 @@ java gauss_elimination < fileName.txt # Where fileName.txt is the name of the in
 ```
 
 ### Input file format:
-> n # number of equations
-> # coefficients of equation 1 separated by space
-> # coefficients of equation 2 separated by space
-> # coefficients of equation 3 separated by space
-> ...
-> # coefficients of equation n separated by space
+```
+n # number of equations
+x1 y1 z1 # coefficients of equation 1 separated by space
+x2 + y2 + z2 # coefficients of equation 2 separated by space
+...
+xn + yn + zn # coefficients of equation n separated by space
+```
 
 Example with 3 equations (n = 3)
+
 Equations:
 - 2 * x - 1 * y - 4 * z = -1
 - 1 * x + 5 * y + 1 * z = 0
