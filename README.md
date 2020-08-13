@@ -22,7 +22,7 @@ x2 + y2 + z2 # coefficients of equation 2 separated by space
 xn + yn + zn # coefficients of equation n separated by space
 ```
 
-Example with 3 equations (n = 3)
+### Example with 3 equations (n = 3)
 
 Equations:
 - 2 * x - 1 * y - 4 * z = -1
