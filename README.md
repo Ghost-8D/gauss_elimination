@@ -25,7 +25,6 @@ xn yn zn # coefficients of equation n separated by space
 ### Example with 3 equations (n = 3)
 
 Equations:
-- $ 2 \times x - 1 \times y - 4 \times z = -1 $
 - 2 * x - 1 * y - 4 * z = -1
 - 1 * x + 5 * y + 1 * z = 0
 - 1 * x + 3 * y + 2 * z = 4
